@@ -7,13 +7,13 @@ import Demo from './Demo';
 
 function App() {
   return (
-    <div >
+    < >
     <Menu />
        <About/>
 
        <Demo/>
 
-    </div>
+    </>
   );
 }
 

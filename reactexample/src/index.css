@@ -11,11 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-.show{
-  background-color: rgb(158, 158, 221);
-  width: fit-content;
-  padding: 10px;
-}
+ 
 .pd{
   padding: 10px;
  
@@ -41,4 +37,12 @@ justify-content: space-around;
   cursor: pointer;
   color: green;
 }
- 
+.greeting{
+  display: flex;
+  justify-content: center;
+   
+}
+.dateTime{
+  display: flex;
+  justify-content: space-between;
+}
