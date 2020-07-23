@@ -20,7 +20,7 @@ else if(curDate>=16 && curDate<20){
     cssStyle.color="Yellow";
 }else{
     greeting='Good night';
-    cssStyle.color="Black";
+    cssStyle.color='Pink';
 }
 const Home =()=>{
     return(
