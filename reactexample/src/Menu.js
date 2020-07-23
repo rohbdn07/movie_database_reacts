@@ -5,11 +5,15 @@ const Menu =() =>{
         <div >
             <ul className='nav-bar'>
           
-                <li>HOME</li>
-                <li>ABOUT</li>
-                <li>CONTACT</li> 
+                <li>Home</li>
+                <li>My Blogs</li>
+                <li>Contact</li>    
+                <span>
+                <h4>ROHIT BHANDARI</h4>
+                </span>
       
             </ul>
+         
         </div>
     )
 }

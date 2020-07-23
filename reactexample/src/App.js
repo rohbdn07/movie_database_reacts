@@ -1,17 +1,20 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+// import './App.css';
+import './index.css'
 import Menu from './Menu';
-import About from './About';
 import Demo from './Demo';
+import Home from './Home';
+import CopyRight from './CopyRight';
+
 
 function App() {
   return (
     < >
     <Menu />
-       <About/>
+       <Home/>
 
-       <Demo/>
+        <Demo/>
+        <CopyRight/>
 
     </>
   );
